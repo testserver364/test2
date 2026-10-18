@@ -18,6 +18,15 @@
     "github": "https://github.com/testserver364/test1"
   },
   {
+    "title": "test1",
+    "description": "A modern software project built with modern technologies.",
+    "tags": [
+      "Open Source",
+      "Software Engineering"
+    ],
+    "github": "https://github.com/testserver364/test1"
+  },
+  {
     "title": "Cloud Native Task Engine",
     "description": "Distributed asynchronous job orchestration system with zero-downtime failover.",
     "tags": [
