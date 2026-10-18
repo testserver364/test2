@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Cloud Native Task Engine",
+    "description": "Distributed asynchronous job orchestration system with zero-downtime failover.",
+    "tags": ["Go", "Docker", "Redis"],
+    "github": "https://github.com/testserver364/cloud-task-engine"
+  }
+]
